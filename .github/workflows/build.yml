@@ -17,7 +17,7 @@ jobs:
           for file in cname-trackers/trackers/*.txt; do cat $file >> blocklist.txt; done
 
           sed -i '/^!/d' blocklist.txt
-          sed -i 's/||\(..*\)\^/\1/g' blocklist.txt
+          sed -i 's/||\(..*\)[\^!]/\1/g' blocklist.txt
 
           git add blocklist.txt
           git commit -m 'Updated blocklist'
