@@ -6,6 +6,8 @@ This project aims to provide a Pi-Hole compatible version of [AdGuard's CNAME-cl
 CNAME-cloacked trackers are trackers that use sub-domains of a visited website to retrieve data stored in first-party cookies
 and thus evade most ad and tracker blockers.
 
+This list allows you to block those subdomains in order to prevent these trackers from tracking you. 
+
 To learn more about this issue, you can read [NextDNS's blog post on the matter](https://medium.com/nextdns/cname-cloaking-the-dangerous-disguise-of-third-party-trackers-195205dc522a).
 
 ## How to use
