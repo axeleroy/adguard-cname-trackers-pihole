@@ -3,7 +3,7 @@ a8.eonet.jp
 a8.print-netsquare.com
 a8clk.xserver.ne.jp
 a8cv.amiami.jp
-afi.ssl.gmobb.jp!
+afi.ssl.gmobb.jp^
 absinfo.eagle.org
 actie.milieudefensie.nl
 baptisthealth.hrm.healthgrades.com
@@ -448,7 +448,7 @@ www2.esri.se
 www3.strsoftware.com
 yourhealth.bassett.org
 yourupmcsusquehanna.hrm.healthgrades.com
-yubico.actonservice.com!
+yubico.actonservice.com^
 ad-track.paravi.jp
 ad.kddi-fs.com
 ad.udition.jp
@@ -459,7 +459,7 @@ cnameebis.usagi-online.com
 ebis.rozetta.jp
 kraciecojp-ebis.kracie.co.jp
 nlp-japan.life-and-mind.com
-tukuru.cotta.jp!
+tukuru.cotta.jp^
 a.beliefnet.com
 an.worldbaseballclassic.com
 analytic.ae.com
@@ -2954,7 +2954,7 @@ www91.intel.in
 www91.intel.it
 www91.intel.la
 www91.intel.pl
-www91.intel.ru!
+www91.intel.ru^
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 a.20minutes.fr
 a.pourquoidocteur.fr
@@ -3005,7 +3005,7 @@ wvvw.mc-doualiya.com
 wvvw.rfi.fr
 y1.arte.tv
 zelten.fritz-berger.de
-zug.sbb.ch!
+zug.sbb.ch^
 data.cofinoga.fr
 data.decathlon.de
 data.decathlon.es
@@ -3019,7 +3019,7 @@ sales.disneylandparis.com
 tag.boulanger.fr
 tagcommander.laredoute.co.uk
 tc.airfrance.com
-tcdata.fnac.com!
+tcdata.fnac.com^
 aaucna.casasbahia.com.br
 abkdae.namshi.com
 abvghl.udn.com
@@ -3570,7 +3570,7 @@ degh48.fnac.com
 op-drive-sto.carrefour.fr
 pk8n57.fnac.com
 rdtcnt.laredoute.fr
-rdtdlv.laredoute.fr!
+rdtdlv.laredoute.fr^
 16ao.mathon.fr
 1bva.societegenerale.fr
 319dn.dieti-natura.com
@@ -3721,14 +3721,14 @@ xnt4.ece.fr
 xy33.smallable.com
 yoc.younited-credit.com
 zkc5.fleurancenature.fr
-zm5d.lexpress.fr!
+zm5d.lexpress.fr^
 d.image-ad.jp
 d.newssuite.sony.net
 i.image-ad.jp
 i.newssuite.sony.net
 j.bg.adresult-sp.jp
 j.image-ad.jp
-j.newssuite.sony.net!
+j.newssuite.sony.net^
 114-track.net.daraz.com
 76.ingenioustech.biz
 allseason.net.daraz.com
@@ -3808,7 +3808,7 @@ ssl.affiliate.logitravel.com
 tbm.net.toom.de
 teva.net.daraz.com
 track.net.daraz.com
-ugportal.net.daraz.com!
+ugportal.net.daraz.com^
 clk.boulanger.com
 k.cocooncenter.co.uk
 k.cocooncenter.com
@@ -3828,7 +3828,7 @@ k.terdav.com
 k.truffaut.com
 k.voyageursdumonde.fr
 ka.ilius.net
-keyade.alltricks.fr!
+keyade.alltricks.fr^
 secure.1-cl0ud.com
 secure.aiea6gaza.com
 secure.alea6badb.com
@@ -3962,7 +3962,7 @@ www.trksrv45.com
 www.web-01-gbl.com
 www.ydwsjt-2.com
 www.zcbmn14.com
-www.zxcvb23.com!
+www.zxcvb23.com^
 tr.3ou4xcb.cetelem.fr
 tr.actu.bricodepot.com
 tr.actualites.01net.com
@@ -4058,7 +4058,7 @@ tr.voixduclient.harmonie-mutuelle.fr
 tr.votrealarme.securitasdirect.fr
 tr.welcome.easyviajar.com
 tr1.mailperf.com
-trpreviews.bp01.net!
+trpreviews.bp01.net^
 ai.mist.com
 apac.wf.com
 app.3d.ultimaker.com
@@ -4374,7 +4374,7 @@ www.acpprograms.org
 www.efficiency.visma.com
 www.info.shavve.co.il
 www.medtronicsolutions.com
-www.service.just.nl!
+www.service.just.nl^
 te.limango.de
 te.mytoys.de
 te.otto.de
@@ -4400,7 +4400,7 @@ tp.schlafwelt.de
 tp.sheego.de
 tp.universal.at
 tp.yomonda.de
-tp.yourhome.de!
+tp.yourhome.de^
 1.adidevelopments.com
 1.forumgroup.com.au
 2.brinkshome.com
@@ -5978,7 +5978,7 @@ www5.scansource.com
 www5.thalesgroup.com
 www5.untangle.com
 www6.gemalto.com
-www6.thalesgroup.com!
+www6.thalesgroup.com^
 2tty.overstappen.nl
 3d.shophumanoid.com
 en.johnhardy.com
@@ -5993,7 +5993,7 @@ tdep.vacansoleil.nl
 box.bossdata.be
 erp.qwic.nl
 tdep.garmundo.de
-tdep.garmundo.nl!
+tdep.garmundo.nl^
 image.kfw.de
 images1.test.de
 mon.ingservices.nl
@@ -6122,7 +6122,7 @@ wttd.douglas.it
 wttd.douglas.nl
 wttd.madeleine-mode.at
 wttd.madeleine-mode.ch
-wttd.madeleine.de!
+wttd.madeleine.de^
 tk.abt.com
 tk.airfrance.ca
 tk.airfrance.fr
