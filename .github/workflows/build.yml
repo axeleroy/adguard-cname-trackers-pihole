@@ -4,7 +4,7 @@ on:
     - cron: '0 1 * * *' # Every day at 01:00
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
       - name: Build
@@ -17,7 +17,14 @@ jobs:
           for file in cname-trackers/trackers/*.txt; do cat $file >> blocklist.txt; done
 
           sed -i '/^!/d' blocklist.txt
-          sed -i 's/||\(..*\)\^/!*\1/g' blocklist.txt
+          sed -i 's/||\(..*\)\^!*/\1/g' blocklist.txt
+
+          # Build should fail if entries do not start and end with alphanumeric characters
+          (grep -q '^\W' blocklist.txt || grep -q '\W$' blocklist.txt) \
+            && echo 'Build failure: the following lines are not properly formatted' \
+            && grep -n '^\W' blocklist.txt \
+            && grep -n '\W$' blocklist.txt \
+            && exit 1
 
           git add blocklist.txt
           git commit -m 'Updated blocklist'
